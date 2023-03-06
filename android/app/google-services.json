@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612542455217",
+    "project_id": "btvn-flutter",
+    "storage_bucket": "btvn-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612542455217:android:d44faf25116bf707c0f190",
+        "android_client_info": {
+          "package_name": "com.example.btvnflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612542455217-s89vtaran87bmp5tiku127ka47fggucq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHF2trIiLLMmvswK9hf071FjrogZIp8to"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612542455217-s89vtaran87bmp5tiku127ka47fggucq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
